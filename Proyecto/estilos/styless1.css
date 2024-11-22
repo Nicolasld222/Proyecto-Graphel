@@ -43,7 +43,7 @@ ul :hover{
     color: #1293d4;
 }
 .banner{
-    background: url(/images/cabecera.jpg) no-repeat center center;
+    background: url(/img/images/cabecera.jpg) no-repeat center center;
     height: 40vh;
     width:100%;
 }
